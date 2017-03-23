@@ -12,7 +12,64 @@
 
 body{
     margin:0px;
-    background-color: #E3E3E3;
+    background-color: #FFF;
     text-align: center;
     background-size: cover;
+}
+
+.header {
+    background-color: #90ACB5!important;
+    color: #fff!important;
+    padding: 20px;
+    text-align: left;
+    
+}
+
+.about {
+    text-align: right;
+    margin: 0px 0px 0px 0px;
+    color: #000!important;
+    font-size: 1.7em;
+    padding: 50px;
+}
+
+.footer {
+    padding: 60px;
+    background-color: #90ACB5!important;
+    color: #fff;
+}
+
+/*BUTTON STYLES*/
+
+.button {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    background-color: #8A8A8A;
+    padding:18px 38px;
+    border-radius:15px;
+    color:#fff;
+    text-decoration:none;
+}
+
+.button {
+    font-size: 20px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 25px;
+    border: solid 1px #8A8A8A;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 4.0);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button:hover, .button:focus {
+    background: #90ACB5;
+    text-decoration: none;
+    color: #FFF;
+}
+
+#dnr {
+    color: #E8E8E8!important;
 }
