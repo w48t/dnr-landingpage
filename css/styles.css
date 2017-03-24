@@ -1,14 +1,6 @@
 /*GLOBAL STYLES*/
 
-@import url(https://fonts.googleapis.com/css?family=Raleway|PT+Sans+Narrow|Alegreya+Sans);
-
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,900);
-
-
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body{
     margin:0px;
@@ -17,6 +9,7 @@ body{
 }
 
 .header {
+    font-family: 'Merriweather', serif;
     background-color: #90ACB5!important;
     color: #fff!important;
     padding: 20px;
@@ -25,6 +18,7 @@ body{
 }
 
 .about {
+    font-family: 'Merriweather', serif;
     text-align: right;
     margin: 0px 0px 0px 0px;
     color: #000!important;
@@ -33,6 +27,7 @@ body{
 }
 
 .footer {
+    font-family: 'Merriweather', serif;
     padding: 60px;
     padding-top: 100px;
     background-color: #90ACB5!important;
@@ -42,7 +37,7 @@ body{
 /*BUTTON STYLES*/
 
 .button {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Merriweather', serif;
     font-weight: 700;
     font-weight: bold;
     background-color: transparent;
