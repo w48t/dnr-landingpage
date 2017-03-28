@@ -31,7 +31,7 @@ body{
 #hero-title {
     font-family: 'Merriweather', serif;
     color: #fff;
-    padding-top: 295px;
+    padding-top: 235px;
     margin-right: -60px;
     text-align: right;
     font-weight: normal;
@@ -39,7 +39,7 @@ body{
 
 .imageCenter {
     max-height: 60px;
-    margin-bottom: -590px;
+    margin-bottom: -490px;
     margin-right: -576px;
 }
 
